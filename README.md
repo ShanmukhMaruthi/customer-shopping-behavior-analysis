@@ -230,8 +230,4 @@ B.Tech Computer Science
 
 Aspiring Data Analyst 
 
-GitHub:
-https://github.com/YOUR_GITHUB_USERNAME
 
-LinkedIn:
-https://linkedin.com/in/YOUR_LINKEDIN
